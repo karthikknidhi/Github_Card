@@ -1,2 +1,2 @@
 # Github_Card
-A Reactjs based Application that allows you to search for Multiple Github Users with their Username using Github API
+A Reactjs based Application that uses github api and allows you to search for multiple github users with their Username 
